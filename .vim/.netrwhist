@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/dima/github/dkorolev/Current/Bricks/time'
+let g:netrw_dirhist_2='/home/dima/cpp/Current/Bricks/dflags'
+let g:netrw_dirhist_3='/home/dima/ai/dump/20170711/code/schema'
+let g:netrw_dirhist_4='/home/dima/github/dkorolev/Current/.git'
+let g:netrw_dirhist_5='/home/dima/github/dkorolev/kernel/src/pfc/Current/TypeSystem/Serialization/json'
+let g:netrw_dirhist_6='/home/dima/github/dkorolev/Current/TypeSystem/Schema'
