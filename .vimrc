@@ -13,8 +13,7 @@ call vundle#begin()
 "
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'VundleVim/YouCompleteMe'
-Plugin 'VundleVim/typescript-vim'
+Plugin 'ycm-core/YouCompleteMe'  # Don't forget to build it from .vim/.../, you'd need `python3-dev` too.
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
